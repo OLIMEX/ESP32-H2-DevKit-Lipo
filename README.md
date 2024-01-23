@@ -22,3 +22,8 @@ Features:
 * operating temperature -40+85C
 * Dimensions: 48 x 25 mm
 
+## Licenses
+
+* Hardware is released under CERN Open Hardware Licence Version 2 - Strongly Reciprocal, all silkscreen credits to Olimex should remain;
+* Software is released under GPL3 Licensee
+* Documentation is released under CC BY-SA 3.0
